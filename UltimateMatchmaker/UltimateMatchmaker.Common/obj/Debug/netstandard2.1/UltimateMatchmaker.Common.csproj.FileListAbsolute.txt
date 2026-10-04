@@ -1,0 +1,9 @@
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\bin\Debug\netstandard2.1\UltimateMatchmaker.Common.deps.json
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\bin\Debug\netstandard2.1\UltimateMatchmaker.Common.dll
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\bin\Debug\netstandard2.1\UltimateMatchmaker.Common.pdb
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\obj\Debug\netstandard2.1\UltimateMatchmaker.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\obj\Debug\netstandard2.1\UltimateMatchmaker.Common.AssemblyInfoInputs.cache
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\obj\Debug\netstandard2.1\UltimateMatchmaker.Common.AssemblyInfo.cs
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\obj\Debug\netstandard2.1\UltimateMatchmaker.Common.csproj.CoreCompileInputs.cache
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\obj\Debug\netstandard2.1\UltimateMatchmaker.Common.dll
+D:\dev\project\dotNet\MirrorNatTraversal\UltimateMatchmaker\UltimateMatchmaker.Common\obj\Debug\netstandard2.1\UltimateMatchmaker.Common.pdb

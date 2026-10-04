@@ -1,0 +1,8 @@
+{
+  "ListenIp": "0.0.0.0",
+  "PublicAddress": "194.24.161.46",
+  "ControlPort": 52100,
+  "RelayPortStart": 52101,
+  "RelayPortEnd": 52200,
+  "ClientTimeoutSeconds": 60
+}

@@ -1,0 +1,7 @@
+{
+  "name": "com.mirrornat.nat-traversal",
+  "version": "0.1.0",
+  "displayName": "Nat Traversal",
+  "description": "NAT traversal helpers for Unity and Mirror.",
+  "unity": "2022.3"
+}
